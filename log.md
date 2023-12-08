@@ -2,11 +2,11 @@
 
 ### Day 0: December 5, 2023
 
-**Today's Progress**: 
+**Today's Progress**: Started the first Advent of Code challenge.
 
-**Thoughts:** 
+**Thoughts:** It has been a while since I last coded! I had to review some basic git commands but I was able to get back into it after looking up what those were.
 
-**Link to work:** [App](http://www.example.com)
+**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
