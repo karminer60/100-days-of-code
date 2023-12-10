@@ -24,3 +24,12 @@
 **Thoughts** I was able to create a decent solution using the logic I mentioned in the previous day's thoughts section. I had to think through how to get the sum of all the values I got from iterating over the lines and each character in a line. I did not get the correct answer but I will continue to work on the problem!
 
 **Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+
+### Day 4: December 8, 2023
+
+**Today's Progress**: Submitted first Advent of Code challenge and got the right answer.
+
+**Thoughts** I fixed the solution to the first part of the first Advent of Code challenge and submitted it. I finally got the right answer. I had placed the last three lines of code in the wrong part of the solution.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
