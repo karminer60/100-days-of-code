@@ -33,3 +33,19 @@
 **Thoughts** I fixed the solution to the first part of the first Advent of Code challenge and submitted it. I finally got the right answer. I had placed the last three lines of code in the wrong part of the solution.
 
 **Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 5: December 9, 2023
+
+**Today's Progress**: Brainstromed on solution for second part of the first challenge of Advent of Code.
+
+**Thoughts** My plan was to create a list with numbers spelled out and loop over the list while looping over each line in the input.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 6: December 10, 2023
+
+**Today's Progress**: Worked on the second part of the first chellenge of Adevent of Code and submitted an incorrect solution.
+
+**Thoughts** My solution seemed right but it didn't provide the correct answer. I stopped debugging and went to sleep!
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
