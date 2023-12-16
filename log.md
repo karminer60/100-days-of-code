@@ -49,3 +49,43 @@
 **Thoughts** My solution seemed right but it didn't provide the correct answer. I stopped debugging and went to sleep!
 
 **Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 7: December 11, 2023
+
+**Today's Progress**: I was super stuck on part two of challenge one of Advent of Code. 😩
+
+**Thoughts** I was stuck because the solution worked for the example but not the input.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 8: December 12, 2023
+
+**Today's Progress**: I got the right answer for challenge one, part two of the Advent of Code problem I was working and moved on to working on the next challenge.
+
+**Thoughts**  I read the prompt and started brainstorming a solution.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 9: December 13, 2023
+
+**Today's Progress**: I worked on challenge number two part one of Advent of Code.
+
+**Thoughts** I created pseudo code which was basically a plan of how I was going to approach the solution.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 10: December 14, 2023
+
+**Today's Progress**: I worked on challenge number two part one of Advent of Code.
+
+**Thoughts**  I was able to write on the first part of my solution.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 11: December 15, 2023
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
