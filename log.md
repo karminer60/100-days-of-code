@@ -78,14 +78,37 @@
 
 **Today's Progress**: I worked on challenge number two part one of Advent of Code.
 
-**Thoughts**  I was able to write on the first part of my solution.
+**Thoughts**  I was able to write code for the first part of my solution.
 
 **Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
 
 ### Day 11: December 15, 2023
 
+**Today's Progress**: I kept working on challenge number two part one of Advent of Code. I was able to create a solution that gave me the right answer.
+
+**Thoughts** I worked on breaking up the sets in each game, which is a part of the last part of my solution. I then created conditionals to filter out the possible games that were 
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 12: December 16, 2023
+
+**Today's Progress**: I worked on challenge number two part two of Advent of Code.
+
+**Thoughts** I mostly worked on planning how to approach the problem. I created an object for the max number of each color in each game.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 13: December 17, 2023
+
+**Today's Progress**: I am worked on challenge number two, part two of Advent of Code and got the right answer.
+
+**Thoughts** It wasn't as difficult as I thought it would be but I took the same approach as in part one of this challenge and used an object for the max number for each color.
+
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+### Day 14: December 18, 2023
+
 **Today's Progress**: 
 
-**Thoughts**
-
+**Thoughts** 
 **Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
