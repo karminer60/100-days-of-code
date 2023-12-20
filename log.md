@@ -86,7 +86,7 @@
 
 **Today's Progress**: I kept working on challenge number two part one of Advent of Code. I was able to create a solution that gave me the right answer.
 
-**Thoughts** I worked on breaking up the sets in each game, which is a part of the last part of my solution. I then created conditionals to filter out the possible games that were 
+**Thoughts** I worked on breaking up the sets in each game, which is a part of the last part of my solution. I then created conditionals to filter out the games that were possible.
 
 **Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/eloquent-mcnulty-2t7vcc?)
 
@@ -107,6 +107,14 @@
 **Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/eloquent-mcnulty-2t7vcc?)
 
 ### Day 14: December 18, 2023
+
+**Today's Progress**: 
+
+**Thoughts** 
+**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+
+
+### Day 15: December 19, 2023
 
 **Today's Progress**: 
 
