@@ -100,7 +100,7 @@
 
 ### Day 13: December 17, 2023
 
-**Today's Progress**: I am worked on challenge number two, part two of Advent of Code and got the right answer.
+**Today's Progress**: I worked on challenge number two, part two of Advent of Code and got the right answer.
 
 **Thoughts** It wasn't as difficult as I thought it would be but I took the same approach as in part one of this challenge and used an object for the max number for each color.
 
@@ -108,10 +108,11 @@
 
 ### Day 14: December 18, 2023
 
-**Today's Progress**: 
+**Today's Progress**: I started working on challenge number 3 part one.
 
-**Thoughts** 
-**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+**Thoughts** I mostly read the prompt and brainstormed how to solve the problem. I will have to use a for loop with index.
+
+**Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/festive-chaum-qcsds7?)
 
 
 ### Day 15: December 19, 2023
