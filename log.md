@@ -117,7 +117,31 @@
 
 ### Day 15: December 19, 2023
 
-**Today's Progress**: 
+**Today's Progress**: I worked on challenge number three, part one of Advent of Code and made progress.
 
-**Thoughts** 
-**Link(s) to work**: [Calculator App](https://shorturl.at/jzEU4)
+**Thoughts** Started coding the solution.
+**Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/festive-chaum-qcsds7?)
+
+### Day 16: December 20, 2023
+
+**Today's Progress**: I continued to work on the fifth part of Advent of Code.
+
+**Thoughts** I was a little busy with baby Leo's doctor appointments so I didn't finish this as soon as I would have wanted. He is almost two months old now!
+**Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/festive-chaum-qcsds7?)
+
+
+### Day 17: December 21, 2023
+
+**Today's Progress**: I continued to work on the fifth part of Advent of Code. 
+
+**Thoughts** It has taken me a little longer to wrap this one up because I have been a little busy with the holidays!
+
+**Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/festive-chaum-qcsds7?)
+
+### Day 18: December 22, 2023
+
+**Today's Progress**: Worked on part five (part 1, challenge 3) of Advent of Code.
+
+**Thoughts** Have been busy with the holidays.
+**Link(s) to work**: [Calculator App](https://codesandbox.io/p/sandbox/festive-chaum-qcsds7?)
+
